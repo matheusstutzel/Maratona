@@ -2,7 +2,7 @@
 #include <string>
 using namespace std;
 
-
+//teste github
 int main()
 {
 	string aux;
